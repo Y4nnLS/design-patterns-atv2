@@ -1,0 +1,6 @@
+
+package Q3_state;
+
+public enum Estado {
+    DESLIGADA, OPERACAO_NORMAL, ALERTA_AMARELO, ALERTA_VERMELHO, EMERGENCIA
+}
